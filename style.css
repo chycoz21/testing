@@ -1,0 +1,400 @@
+
+.ukuran {
+  border-radius: 60%;
+}
+.testimoni {
+    text-align: center;
+    padding-top: 100px;
+    margin: auto;
+}
+
+.portofolio {
+    float: left;
+    width: 13%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.portofolio-icon {
+    position: absolute;
+    padding-left: 25%;
+}
+
+.portofolio p {
+    margin-right: 8.89%;
+}
+
+
+#wrapper{
+  margin-left:auto;
+  margin-right:auto;
+  background-color: #f7f7f7;
+  width: 100%;
+  height:100%;
+}
+
+@font-face{
+  font-family:roboto;
+  src:url(Roboto-Medium.ttf);
+  font-family:ranchers;
+  src:url(Ranchers-Regular.ttf);
+}
+@font-face{
+  font-family:ranchers;
+  src:url(Ranchers-Regular.ttf);
+}
+
+@font-face{
+  font-family:roboto-bold;
+  src:url(Roboto-Bold.ttf);
+}
+body{
+  font-family : "Roboto", sans-serif;
+}
+a{
+  text-decoration:none;
+}
+
+li{
+  list-style : none;
+}
+
+.footer{
+  background-color : #1E90FF;
+  color : white;
+  padding : 6.99% ;
+  margin-top:30%;
+}
+
+.footer-logo{
+  float : left;
+  font-size : 30px;
+  
+}
+
+.footer-list{
+  float : right;
+  padding-bottom : 10px;
+  
+}
+
+.footer-list li{
+  padding-bottom : 1px;
+ 
+}
+.container{
+  width: 1170px; 
+  padding: 0 25px;
+  margin:0 auto;
+} 
+
+header{
+  height: 65x;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  /*z-index: 10*/
+}
+
+.top-wrapper{
+  margin-top:0;
+  padding: 85px 0 130px 0;
+  background-color:#39A1FF;
+  background-size: cover;
+  color: white;
+  text-align: center
+}
+.picheader{
+  margin-left:-400px;
+  width:50%;
+  height:90%;
+  float:right;
+  padding:1px;
+}
+
+.one{
+margin-right: 600px;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+top: 1px;
+letter-spacing: 0.1em;
+font-family:roboto;
+font-size:30px;
+}
+.three{
+  margin-right:600px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+  font-size: 20px;
+  font-family:roboto;
+  margin-bottom:100px;
+}
+
+.container-left {
+  float: left;
+  padding-left: 40px; 
+}
+.container-left p {
+  padding-right: 50%;
+}
+.heading {
+  padding-bottom: 20px;
+  padding-right: 150px;
+  text-align: center;
+  font-family:roboto-bold;
+}
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.header-right{
+  float:right;
+  margin:30px;
+  padding: 12px 53px 12px 53px;
+  color : white;
+  display:inline-block;
+  background-color:#030A47;
+  border-radius:8px;
+  opacity:0.8; 
+}
+.header-right:hover{
+  opacity:2;
+}
+.login{
+  color:white;
+  text-wheight:bold;
+  font-wight:bold;
+  font-family:roboto;
+}
+.btn{
+  font-family:sans-serif;
+  margin:10px;
+  color:white;
+  border-radius:8px;
+  font-family:roboto;
+  opacity:0.9; 
+  text-align:center;
+}
+.btn:hover{
+  opacity:2;
+}
+
+.facebook{
+  background-color:#3B5998;
+  margin-right:10px;
+  padding:12px 24px 12px 24px;
+  font-size:17px;
+}
+
+.email{
+  margin-right:330px;
+  background-color:#D44638;
+  padding:12px 24px 12px 24px;
+  font-size:17px;
+}
+
+.kenal-iot{
+  margin-right:300px;
+  background-color:#190347;
+  padding:12px 40px 12px 40px;
+  font-size:17px;
+  margin-bottom:70px;
+}
+
+.none {
+  margin-right:560px;
+  padding:12px 24px 12px 24px;
+  font-size:17px;
+}
+}
+.btn-wrapper{
+  margin-top:49px;
+  margin-bottom:9px;
+  
+}
+
+div {
+  animation: mymove 5s infinite;
+}
+
+.container-left{
+  padding:70px;
+  
+}
+.head2{
+  font-family:ranchers;
+  font-size:38px;
+  margin-left:75px;
+}
+
+.container-left p{
+  font-family:roboto-bold;
+  margin-left:75px;
+}
+
+.picheading{
+  padding-top:1px;
+  padding-bottom:1px;
+  width:40%;
+  height:30%;
+  margin-bottom:1px 
+  margin-left:-400px;
+  float:right;
+}
+
+.lesson{
+  float:left;
+  width:13%;
+  padding-top:20px;
+  padding-bottom:20px;
+  
+}
+.lesson-icon{
+  margin-right:95px;
+  padding-left:220px;
+}
+.txt-content{
+  margin-left:0;
+  font-family:roboto-bold;
+  font-size:15px;
+}
+
+.btn-test{
+  background-color:#8E14EE;
+  margin:15px;
+  float:left;
+  color : white;
+  margin-right:542px;
+  cursor:pointer;
+  box-shadow: 0 5px rgb(59, 4, 102);
+  font-size: 25px;
+  border-radius:8px;
+  margin-bottom: 8.89%;
+}
+.btn-test:active{
+  box-shadow:none;
+  position:relative;
+  top:7px;
+}
+
+.testi{
+  margin-top:0 auto;
+  text-align:center;
+}
+.testi{
+  margin-top:100px;
+}
+.testi h2{
+  font-family:roboto-bold;
+  margin-right:200px;
+  margin-left:100px;
+}
+ .portofolio{
+    font-family:roboto-bold;
+    margin-top:0 auto;
+    text-align:center;
+    padding:1px solid;
+    float:left;
+    margin-bottom:40px;
+    border-radius:40%;
+    width:10%;
+    
+
+ }
+.portofolio-icon{
+  width:25px;
+  border-radius:40%;
+  
+}
+.portofolio-icon img{
+  width:500%;
+  height:100%;
+  margin-right: 400px;
+  padding:20%;
+}
+
+/* Untuk Tablet */
+/*@media all and (max-width: 1000px) {
+    #wrapper{
+      width: 30%;
+      height: 20%;
+    }
+    .portofolio {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
+    .picheader{
+    margin-left:-900px;
+    width:50%;
+    height:90%;
+    float:right;
+    padding:1px;
+  }
+  .one{
+    font-size: 1%;
+  }
+
+
+
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    #wrapper{
+      width: 30%;
+      height: 20%;
+    }
+    .portofolio {
+        width: 100%;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .facebook {
+        margin-bottom: 10px;
+    }
+
+    .top-wrapper {
+        text-align: left;
+    }
+
+    /* Tambahkan CSS untuk header-right */
+    .header-right {
+        display: none;
+    }
+
+    /* Tambahkan CSS untuk menu-icon */
+
+    .top-wrapper h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .top-wrapper p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+
